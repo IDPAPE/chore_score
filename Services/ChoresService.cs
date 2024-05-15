@@ -1,7 +1,6 @@
 
 
 namespace chore_score.Services;
-
 public class ChoresService
 {
     private readonly ChoresRespository _choresRepository;

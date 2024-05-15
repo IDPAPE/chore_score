@@ -2,7 +2,6 @@
 
 
 namespace chore_score.Repositories;
-
 public class ChoresRespository
 {
     private readonly IDbConnection _db;

@@ -1,5 +1,4 @@
 namespace chore_score.Models;
-
 public class Chore
 {
     public int id { get; set; }

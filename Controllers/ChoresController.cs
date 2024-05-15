@@ -7,7 +7,6 @@ namespace chore_score.Controllers;
 public class ChoresController : ControllerBase
 {
     private readonly ChoresService _choresService;
-
     public ChoresController(ChoresService choresService)
     {
         _choresService = choresService;
